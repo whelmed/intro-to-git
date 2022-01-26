@@ -1,2 +1,1 @@
-print('branching is cool')
-print('and fun. and so is git.')
+print('Version 1.0 of this amazing application!')
