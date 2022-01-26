@@ -1,2 +1,2 @@
 print('branching is cool')
-print('so is git.')
+print('and fun. and so is git.')
